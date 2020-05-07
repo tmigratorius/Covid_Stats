@@ -1,0 +1,7 @@
+,Location,Prevalance,Test_Type,Number_Infected,False Neg f/350
+0,Layton,0.00052,single,0.182,0.06734
+1,Salt Lake,0.00415,single,1.4525000000000001,0.537425
+2,UT % test +,0.045,single,15.75,5.8275
+3,Layton,0.00052,Two Tests,0.182,0.0049
+4,Salt Lake,0.00415,Two Tests,1.4525000000000001,0.0391
+5,UT % test +,0.045,Two Tests,15.75,0.4236
